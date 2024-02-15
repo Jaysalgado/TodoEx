@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TodoEx/static/css/main.f855e6bc.css",
+    "main.js": "/TodoEx/static/js/main.330fde46.js",
+    "static/js/592.0e6d5638.chunk.js": "/TodoEx/static/js/592.0e6d5638.chunk.js",
+    "static/media/logo.svg": "/TodoEx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TodoEx/index.html",
+    "main.f855e6bc.css.map": "/TodoEx/static/css/main.f855e6bc.css.map",
+    "main.330fde46.js.map": "/TodoEx/static/js/main.330fde46.js.map",
+    "592.0e6d5638.chunk.js.map": "/TodoEx/static/js/592.0e6d5638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.330fde46.js"
+  ]
+}
